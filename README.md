@@ -1,9 +1,9 @@
 # Backend-Developer-Technical-Test
 
-# task 2
+# task 1
 path 'task1/index.js'
 
-# task2
+# task 2
 * setup backend, fontend
 - open  path '/task2/backend/'  and  '/task2/fontend' run  command :
   
@@ -12,7 +12,8 @@ npm start
 ```   
 * Open http://localhost:3000 to view page in the browser.
 <img src="https://github.com/HelloThien/Backend-Developer-Technical-Test/blob/master/data/users.png">
-# task3 
+
+# task 3
  * Open http://localhost:4000/family.html to view page in the browser.
  
 <img src="https://github.com/HelloThien/Backend-Developer-Technical-Test/blob/master/data/family.png">
