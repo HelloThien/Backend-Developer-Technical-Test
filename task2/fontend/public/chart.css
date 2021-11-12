@@ -1,0 +1,39 @@
+#editForm{
+    display:none;
+    position:absolute;
+    top:0;
+    left: 45%;
+    width: 300px;
+    height: 80px;
+    z-index: 100;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border:1px solid rgb(218, 215, 215);
+    border-radius: 5px;
+    margin:10px;
+    background-color: aquamarine;
+}
+.filter{
+    position: absolute;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    background-color: #fff;
+    padding: 40px;
+
+}
+.filter input{
+    width: 50px;
+    height: 25px;
+}
+.filter button{
+    height: 30px;
+    font-weight: bold;
+    background-color: aqua;
+    border-radius: 3px;
+    border:1px solid rgb(160, 159, 159);
+}
+#tree{
+    top:150px;
+}

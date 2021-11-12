@@ -1,0 +1,67 @@
+td{
+    position: relative;
+
+    width: 100px;
+    height: 100px;
+}
+.bt{
+    border-top:1px solid black;
+}
+.bl{
+    border-left:1px solid black;
+}
+.br{
+    border-right:1px solid black;
+}
+.bb{
+    border-bottom:1px solid black;
+}
+.container-Tree{
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+}
+table{
+    margin:auto;
+    margin-top:150px;
+}
+
+.card-member{
+    position: absolute;
+    height: 140px;
+    width: 130px;
+    background-color: rgb(76, 241, 112);
+    border-radius: 3px;
+    border:1px solid rgb(228, 225, 225);  
+    z-index: 100;
+     
+}
+.t-l{
+    top: -70px;
+    left: -65px;
+}
+.t-r{
+    top: -70px;
+    right:  -65px;
+}
+.b-l{
+    bottom:  -70px;
+    left: -65px;
+}
+.b-r{
+    bottom:  -70px;
+    right:  -65px;
+}
+
+.card-member img{
+    width: 130px;
+    height: 110px;
+}
+.name-member{
+    text-align:center;
+    font-weight: bold;
+    font-size: 0.7rem;
+}
