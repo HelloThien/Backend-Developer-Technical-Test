@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "618b463498f7e13072bb0e56"
+  },
+  "id": "4",
+  "name": "thoran",
+  "email": "thor@hcm.edu.vn",
+  "birth": "22-03-1992",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618b469498f7e13072bb0e62"
+  },
+  "id": "3",
+  "name": "jeny",
+  "email": "jeny@gmail.com",
+  "birth": "19-03-1993",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618b5b5a98f7e13072bb0ed9"
+  },
+  "id": "1",
+  "name": "john.doe",
+  "email": "john.doe@email.com",
+  "birth": "1991-04-21",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618b5b7198f7e13072bb0edb"
+  },
+  "id": "2",
+  "name": "john.smith",
+  "email": "john.smith@email.com",
+  "birth": "1994-09-07",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618b6c3cc5ca1f3e5834d476"
+  },
+  "id": "5",
+  "name": "john.sm",
+  "email": "jeny@gmail.com",
+  "birth": "22-02-2021",
+  "__v": 0
+}]
